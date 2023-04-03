@@ -48,7 +48,7 @@ razor, a escolha do melhor coincidiu com o mais simples. A Regressão logística
 melhor tanto no teste simples quanto usando validação cruzada.
 </pre>
 
-![Métricas](https://raw.githubusercontent.com/almir-martins/rossmann_sales_prediction/main/data/imagem1.png "Resultados das métricas")
+![Métricas](https://raw.githubusercontent.com/almir-martins/case_test/main/data/imagem1.png "Resultados das métricas")
 
 ## Próximos passos
 
